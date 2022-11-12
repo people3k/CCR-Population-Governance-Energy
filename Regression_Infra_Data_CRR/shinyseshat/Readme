@@ -1,1 +1,4 @@
-This directory contains all the data used to run the regression analysis on pre-industrial polities. 
+This directory contains all the data used to run the regression analysis on pre-industrial polities. This directory contains the pre-industrial polity data published by Miranda and Freeman 2020 that updates the Seshat World 30 sample 
+called Shiny Seshat. There are three data sets that represent the imputation `treatments' discussed in the SI Appendix 1.
+See our python code for constructing the kinship intensity index in shiny Seshat. This directory also
+contains the Seshat code book that defines all of the variables in the data set. 
